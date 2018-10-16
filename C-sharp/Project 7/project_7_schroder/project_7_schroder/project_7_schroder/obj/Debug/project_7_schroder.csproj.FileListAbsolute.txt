@@ -1,0 +1,14 @@
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\bin\Debug\project_7_schroder.exe.config
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\bin\Debug\project_7_schroder.exe
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\bin\Debug\project_7_schroder.pdb
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.csprojAssemblyReference.cache
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.AddScoreToUpdateForm.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.addStudentForm.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.Form1.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.Properties.Resources.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.updateScoresForm.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.updateStudentForm.resources
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.csproj.GenerateResource.cache
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.csproj.CoreCompileInputs.cache
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.exe
+C:\Users\Allison\Desktop\project_7_schroder\project_7_schroder\obj\Debug\project_7_schroder.pdb
