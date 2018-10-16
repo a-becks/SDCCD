@@ -1,1 +1,1 @@
-This project is an improvement on Project 6 using file I/O.  Student scores are stored in a file and loaded into a database class.  The class records updates to the original file as changes are made.
+This project is an improvement on Project 6 using file I/O.  Student scores are stored in a .txt file and loaded into a database class.  The class records updates to the original file as changes are made.
