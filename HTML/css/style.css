@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #dcdada;
+	font-family: Verdana, sans-serif;
+	background-image: url(../images/pawprint1.jpg);
+	background-repeat: repeat-x;
+}
+
+/* header styling */
+header{
+	margin-top: 73px;
+	padding: 10px 0;
+	background-color:#7c7a7a;
+}
+header h1, header h2{
+	font-family: Garamond, serif;
+	color: #0e4418;
+	text-align: center;
+}
+header h1 {
+	font-size:40px;
+	padding-bottom: 10px;
+}
+header h2{
+	font-size: 30px;
+}
+
+/* navigation menu styling */
+nav{
+	float:left;
+	width: 15%;
+}
+nav ul{
+	margin: 10px;
+	list-style-type:none;
+
+}
+nav ul li{
+	background-color: #fff;
+	border: 1px solid black;
+	margin: 15px 10px;
+	text-align: center;
+}
+nav ul li a{
+ 	text-decoration: none;
+	color: #0e4418;
+	display: block;
+	padding: 6px;
+}
+nav ul li a:hover{
+	background-color: #d0e7d3;
+}
+nav .currentPage{
+	color:#fff;
+	background-color: #0e4418;
+	padding: 6px;
+	display: block;
+}
+
+/* main content styling */
+main{
+	margin: 1em;
+	margin-left: 15%;
+	display:block; /* necessary for IE to display this section correctly */
+}
+main h2{
+	color: green;
+	margin-bottom: 1em;
+}
+main span.characteristic{
+	color: #8f0909;
+	font-style: italic;
+}
+main p{
+	margin: 5px;
+}
+main section#description{
+	font-size: 1.2em;
+}
+
+main section#description p{
+	margin-bottom: 20px;
+}
+main ul{
+	list-style-image:url("bullet_paw.jpg");
+	margin-left: 30px;
+}
+main ul li{
+	padding: 2px 0;
+}
+
+/*figure styling */
+figure {
+	float:right;
+	margin: 0 1em;
+}
+
+figure img{
+	margin: 0 15px;
+	border: 2px solid black;
+	background-color:red;
+	display:block;
+}
+figcaption{
+	color: #8f0909;
+	margin-top: 5px;
+	text-align: center;
+}
+
+/* form styling */
+form fieldset{
+	margin:10px;
+	padding:5px 15px 15px 15px;
+}
+form legend{
+	color: #8f0909;
+	font-style: italic;
+}
+form p#comment-box{
+	margin-top: 15px;
+}
+form .button{
+	padding: 5px 10px;
+	margin-left: 10px;
+
+}
+
+/* footer styling */
+footer{
+	clear: both;
+	text-align: center;
+	padding: 10px 0;
+	background-color: #d0e7d3;
+}
+footer #copy{
+	margin-bottom: 5px;
+}
+footer a{
+	padding: 3px 8px;
+	text-decoration: none;
+	color:#0e4418;
+}
+footer a:hover{
+	color:#fff;
+	background-color:#0e4418;
+}

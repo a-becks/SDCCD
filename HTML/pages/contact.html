@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact us!</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+	<h1>The Furry Friends Consortium</h1>
+	<h2>We love dogs and we want you to love them too!</h2>
+</header>	
+
+<nav>
+	<ul>
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="border_collie.html">Border Collie</a></li>
+		<li><a href="boxer.html">Boxer</a></li>
+		<li><a href="pug.html">Pug</a></li>
+		<li><span class = "currentPage">Want more?</span></li>
+	</ul>
+</nav>
+
+<main>
+	<h2>Let us know what you want to see next!</h2>
+	
+	<figure>
+		<img src="../images/dog_thinking.jpg" alt="Quizzical pug" class="image"/>
+	</figure>
+
+	<p>There are almost 200 dog breeds recognized by the AKC - so we've got our work cut out for us!  Want to see your favorite next?  Let us know!</p>
+	
+	<form action="mailto:allison.schroder.mail@gmail.com" method="post">
+		<fieldset>
+			<legend>Personal information:</legend>
+			First name: <input type="text" placeholder="First name"/> 
+			Last name: <input type="text" placeholder="Last name"/>
+		</fieldset>
+		<fieldset>
+			<legend>Reason for interest:</legend>
+			<p><input type="radio" name="reason" value="research">I'm doing research before I get my next dog!</p>
+			<p><input type="radio" name="reason" value="current-dog">I want to see my dog's breed on here!</p>
+			<p><input type="radio" name="reason" value="not-interested">I just want to learn more about dog breeds.</p>
+		</fieldset>
+		<fieldset>
+			<legend>Requested breeds:</legend>
+			<p>
+			<select name="breed" multiple id="select-box">
+				<option value="golden-retriever">Golden Retriever</option>
+				<option value="great-dane">Great Dane</option>
+				<option value="chihuahua">Chihuahua</option>
+				<option value="bedlington">Bedlington Terrier</option>
+				<option value="other">Other (describe in comment section)</option>						
+			</select>
+			</p>
+			<p id="comment-box">Comments or questions?  We want to hear from you!
+			<textarea name="comments" rows="10" cols="40" placeholder="Your comments here!"></textarea>
+			</p>
+			
+		</fieldset>
+		<input type="submit" value="Send" class="button"/>
+		<input type="reset" value="Reset" class="button"/>
+		
+	</form>
+	
+	
+</main>
+
+<footer>
+	<p id="copy">&copy; The Furry Friends Consortium 2018</p>
+	<p><a href="mailto:allison.schroder.mail@gmail.com">Contact us here!</a></p>
+</footer>
+</body>
+</html>
